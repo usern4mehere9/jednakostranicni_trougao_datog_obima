@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "jednakostranicni_trougao_datog_obima/1.0.0": {
+        "runtime": {
+          "jednakostranicni_trougao_datog_obima.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "jednakostranicni_trougao_datog_obima/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
